@@ -9,4 +9,4 @@ Pandas is a powerful data analysis and manipulation library for Python. It provi
 - Handling of missing data, reshaping, and pivoting of datasets.
 - Data alignment and integrated handling of time series functionality.
 
-Pandas is built on top of NumPy and is an essential tool for any Python-based data professional or researcher.
+Pandas is built on top of NumPy and is an essential tool for any Python-based data professional or researcher. 
